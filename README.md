@@ -4,6 +4,17 @@ Personal skills for Claude Code that persist across all sessions and repositorie
 
 ## Skills Included
 
+### ML Engineering Skills (1)
+
+#### `ml-staff`
+All-in-one ML Staff Engineer advisor for LLM/GenAI and PyTorch deep learning.
+- Code review lens (correctness, performance, memory, prod-readiness)
+- System design (training pipelines, serving, monitoring, cost)
+- LLM/GenAI patterns (RAG, eval, fine-tuning decisions, serving optimization)
+- PyTorch best practices (DDP, mixed precision, gradient accumulation, profiling)
+- Technical communication (design docs, RFCs, ADRs)
+- Auto-invokes on ML-related code and discussions; also callable via `/ml-staff`
+
 ### Core Development Skills (4)
 
 #### `reading-before-calling`
