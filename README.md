@@ -4,7 +4,7 @@ Personal skills for Claude Code that persist across all sessions and repositorie
 
 ## Skills Included
 
-### Core Development Skills (3)
+### Core Development Skills (4)
 
 #### `reading-before-calling`
 Prevents common coding errors through proactive verification.
@@ -21,6 +21,13 @@ Automatically adds common directory patterns to trusted paths.
 #### `proceed-without-asking`
 Records user consent patterns for automatic approval.
 - One "yes" = permanent consent for that pattern
+
+#### `microsoft-device-login-automation`
+Automates Microsoft device login flow when tokens expire.
+- Detects token_expired errors
+- Opens devicelogin URL automatically
+- Extracts and copies code to clipboard
+- Optional full automation with AppleScript/Playwright
 
 ### Compound Engineering Skills (10)
 
